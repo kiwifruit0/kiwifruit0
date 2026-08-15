@@ -50,7 +50,7 @@ I'm a final-year Computer Science student at the University of Southampton (on t
 | **[Echo](https://github.com/kiwifruit0/Echo)** 🏆 *1st place, ElevenLabs Track — SotonHack 2026* | Voice-based social app blending Reddit-style forums with BeReal-style daily voice notes; low-latency STT/TTS pipeline, 3D connected friend graph | FastAPI · React · MongoDB Atlas · ElevenLabs · Gemini |
 | **[WECS Hackathon Project](https://github.com/Ryan-Shino/WECSHackathonProject)** 🏆 *1st place, Soton Data Science x WECS* | Location-aware app that gamifies real-world activity with real-time geolocation classification and leaderboards | FastAPI · React · Mapbox |
 | **[grade_predictor](https://github.com/kiwifruit0/grade_predictor)** | Regression model predicting student grades from academic and non-academic attributes, ~15% better than baseline, surfacing key predictors for educators | Python · CustomTKinter |
-| **[LoChord](https://github.com/kiwifruit0/LoChord)** | Open-source take on the HiChord MIDI device | C++ · C · KiCad |
+| **[LoChord](https://github.com/kiwifruit0/LoChord)** | Open-source take on the HiChord MIDI device - my current side project | C++ · C · KiCad |
 
 ---
 
@@ -63,7 +63,7 @@ I'm a final-year Computer Science student at the University of Southampton (on t
 ---
 
 ### 🔭 Right now
-
+- 🔨 Building **[LoChord](https://github.com/kiwifruit0/LoChord)**, an open-source take on the HiChord MIDI device - my current side project and the one I'm having the most fun with
 - Looking for **Software Engineering graduate roles**, starting 2027
 - Open to collaborating on anything with FastAPI, embedded systems, or applied ML
 - 📫 Reach me at **tobysj@proton.me**
