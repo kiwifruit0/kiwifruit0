@@ -57,7 +57,6 @@ I'm a final-year Computer Science student at the University of Southampton (on t
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kiwifruit0&show_icons=true&theme=default&hide_border=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kiwifruit0&hide_border=true" />
 </p>
 
